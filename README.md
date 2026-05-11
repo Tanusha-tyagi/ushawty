@@ -1,4 +1,5 @@
 ushawty — DevOps Presentation
+
 This repository contains a small web application (frontend + backend) and a complete DevOps pipeline demonstrating containerization, CI/CD, blue/green deployment, health checks, and rollback strategies. The README below is written to present the project as a DevOps showcase rather than purely a backend codebase.
 
 Project Goal: Show a practical end-to-end DevOps workflow: build, test, package (Docker), push images, and deploy to a production host with safe rollout and automated validation.
